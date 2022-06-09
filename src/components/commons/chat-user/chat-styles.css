@@ -1,0 +1,36 @@
+.member-list{
+    height: 100vh;
+    align-content: flex-start
+}
+
+.active{
+    padding: 5px;
+    border-radius: 5px;
+    background-color: rgba(150, 133, 143, 0.5);
+}
+
+.inactive{
+    padding: 5px;
+    border-radius: 5px;
+    background-color: rgba(109, 121, 147, 0.5);
+}
+
+.receive-message{
+    background-color: rgba(0, 139, 139, 0.30);
+}
+
+.sender-message{
+    background-color: rgba(13, 110, 253, 0.5);
+}
+
+.message-container{
+    height: 420px;
+}
+
+.chat-item{
+    max-height: 80px;
+}
+
+.member-list{
+    height: 80vh;
+}

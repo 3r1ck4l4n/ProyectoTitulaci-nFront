@@ -1,0 +1,20 @@
+.button-spinner{
+    background: #96858f !important;
+    border: 2px solid #96858f !important;
+}
+
+.profile-card{
+    background: #6d7993 !important;
+    border: #6d7993 2px solid !important;
+    box-shadow: 5px 5px 6px rgba(1,1,1,.5);
+}
+
+.text-clear{
+    color: #d5d5d5 !important;
+}
+
+.profile-user-card{
+    background: #6d7993 !important;
+    border: #6d7993 2px solid !important;
+    box-shadow: 5px 5px 6px rgba(1,1,1,.5);
+}

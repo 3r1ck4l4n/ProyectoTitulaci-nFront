@@ -1,0 +1,20 @@
+.recharts-wrapper{
+    margin: 0 auto;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.card{
+    box-sizing: content-box;
+}
+
+.recharts-wrapper svg{
+    display: block;
+    margin: 0 auto;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+/*.container{*/
+/*    max-height: 1000px !important;*/
+/*}*/

@@ -1,0 +1,7 @@
+.footer{
+    position: absolute;
+    bottom: 0;
+    background: rgba(150, 133, 143, 0.56) !important;
+    color: #6d7993 !important;
+    width: inherit;
+}
